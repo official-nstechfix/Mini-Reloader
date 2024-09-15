@@ -124,5 +124,5 @@ This project is licensed under the [Apache License](https://github.com/official-
 
 ## Contact
 
-For any questions or feedback regarding the Mini Reloader extension, please open an issue in the repository or contact the project maintainer at [nstechfix@gamil.com](nstechfix@gmail.com).
+For any questions or feedback regarding the Mini Reloader extension, please open an issue in the repository or contact the project maintainer at nstechfix@gmail.com.
 
