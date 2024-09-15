@@ -21,7 +21,7 @@ To install and use Mini Reloader, follow these simple steps:
    You can either download the ZIP file of this repository from GitHub or clone it using Git:
 
    ```bash
-   git clone https://github.com/yourusername/mini-reloader.git
+   git clone https://github.com/official-nstechfix/Mini-Reloader.git
    ```
 
 2. **Load the Extension into Chrome**
@@ -77,7 +77,7 @@ We welcome contributions to the Mini Reloader project! To contribute, please fol
    Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/mini-reloader.git
+   git clone https://github.com/official-nstechfix/Mini-Reloader.git
    ```
 
 3. **Create a New Branch**
@@ -115,7 +115,7 @@ We welcome contributions to the Mini Reloader project! To contribute, please fol
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Apache License](https://github.com/official-nstechfix/Mini-Reloader/blob/main/LISENCE.md). See the [LICENSE](https://github.com/official-nstechfix/Mini-Reloader/blob/main/LISENCE.md) file for details.
 
 ## Acknowledgements
 
@@ -124,5 +124,5 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 
 ## Contact
 
-For any questions or feedback regarding the Mini Reloader extension, please open an issue in the repository or contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback regarding the Mini Reloader extension, please open an issue in the repository or contact the project maintainer at [nstechfix](nstechfix@example.com).
 
