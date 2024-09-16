@@ -12,6 +12,11 @@ Welcome to **Mini Reloader**, a Chrome extension designed to automate the reload
 - **Real-Time Countdown Display**: View the remaining time directly in the extension popup.
 - **Stylish and Functional Interface**: A clean, modern interface with a permanently dark theme for enhanced readability and focus.
 
+- ## 📸 Screenshots
+
+### Light Mode
+![Extension Preview ](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Reloader/Screenshot%20(93).png)
+
 ## Installation
 
 To install and use Mini Reloader, follow these simple steps:
